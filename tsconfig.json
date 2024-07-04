@@ -1,0 +1,26 @@
+{
+  "compilerOptions": {
+    "target": "ES2020",
+    "module": "CommonJS",
+    "outDir": "./dist",
+    "rootDir": "./src",
+    "strict": true,
+    "esModuleInterop": true,
+    "skipLibCheck": true,
+    "forceConsistentCasingInFileNames": true,
+    "baseUrl": "./src",
+    "paths": {
+      "@api/*": ["api/*"],
+      "@controllers/*": ["api/controllers/*"],
+      "@data/*": ["api/data/*"],
+      "@managers/*": ["api/managers/*"],
+      "@models/*": ["api/models/*"],
+      "@repositories/*": ["api/repositories/*"],
+      "@routes/*": ["api/routes/*"],
+      "@services/*": ["api/services/*"],
+      "@utils/*": ["utils/*"],
+      "@config/*": ["config/*"]
+    }
+  },
+  "include": ["src/**/*"]
+}

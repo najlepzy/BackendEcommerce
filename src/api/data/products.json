@@ -1,0 +1,132 @@
+[
+  {
+    "title": "Fender Stratocaster Guitar",
+    "description": "Electric guitar with alder body and three single-coil pickups, ideal for genres like rock and blues.",
+    "code": "FND001",
+    "price": 3576050,
+    "stock": 10,
+    "category": "Guitars",
+    "thumbnails": [
+      "https://http2.mlstatic.com/D_NQ_NP_701303-MLU75332472188_032024-O.webp"
+    ],
+    "status": true,
+    "id": 1
+  },
+  {
+    "title": "Gibson Les Paul Guitar",
+    "description": "Classic electric guitar with a mahogany body and rich sound, ideal for rock musicians.",
+    "code": "GBS001",
+    "price": 3821037,
+    "stock": 5,
+    "category": "Guitars",
+    "thumbnails": [
+      "https://http2.mlstatic.com/D_NQ_NP_658515-MLA74652369414_022024-O.webp"
+    ],
+    "status": true,
+    "id": 2
+  },
+  {
+    "title": "Fender Jazz Bass",
+    "description": "Versatile electric bass with two pickups and a clear sound, suitable for various musical genres.",
+    "code": "FND002",
+    "price": 1994999,
+    "stock": 8,
+    "category": "Basses",
+    "thumbnails": [
+      "https://http2.mlstatic.com/D_NQ_NP_762963-MLA71081901072_082023-O.webp"
+    ],
+    "status": true,
+    "id": 3
+  },
+  {
+    "title": "Yamaha Drum Kit",
+    "description": "Complete drum kit with excellent sound quality and durability, ideal for all skill levels.",
+    "code": "YMH001",
+    "price": 1252658,
+    "stock": 7,
+    "category": "Drums",
+    "thumbnails": [
+      "https://http2.mlstatic.com/D_NQ_NP_658646-MLA77319662831_062024-O.webp"
+    ],
+    "status": true,
+    "id": 4
+  },
+  {
+    "title": "Yamaha U1 Piano",
+    "description": "Acoustic upright piano with a clear and precise tone, perfect for practice and performance in small spaces.",
+    "code": "YMH002",
+    "price": 12900000,
+    "stock": 3,
+    "category": "Keyboards",
+    "thumbnails": [
+      "https://http2.mlstatic.com/D_NQ_NP_677639-MLA74506141425_022024-O.webp"
+    ],
+    "status": true,
+    "id": 5
+  },
+  {
+    "title": "Roland Fantom Keyboard",
+    "description": "Advanced workstation keyboard, ideal for music producers and live performers.",
+    "code": "RLD001",
+    "price": 8242461,
+    "stock": 5,
+    "category": "Keyboards",
+    "thumbnails": [
+      "https://http2.mlstatic.com/D_NQ_NP_975867-MLU73980819152_012024-O.webp"
+    ],
+    "status": true,
+    "id": 6
+  },
+  {
+    "title": "Kala Ukulele",
+    "description": "Soprano ukulele made of mahogany wood, lightweight and easy to play, perfect for musicians of all levels.",
+    "code": "KLA001",
+    "price": 164814,
+    "stock": 15,
+    "category": "Ukuleles",
+    "thumbnails": [
+      "https://http2.mlstatic.com/D_NQ_NP_793799-MLU74114120047_012024-O.webp"
+    ],
+    "status": true,
+    "id": 7
+  },
+  {
+    "title": "Yamaha Alto Saxophone",
+    "description": "High-quality alto saxophone with a smooth tone and great playability, ideal for students and professionals.",
+    "code": "YMH003",
+    "price": 3267684,
+    "stock": 6,
+    "category": "Saxophone",
+    "thumbnails": [
+      "https://http2.mlstatic.com/D_NQ_NP_668375-MLU74860321729_032024-O.webp"
+    ],
+    "status": true,
+    "id": 8
+  },
+  {
+    "title": "Martin D-28 Acoustic Guitar",
+    "description": "Iconic acoustic guitar with a rich and deep tone, used by legendary musicians.",
+    "code": "MTN001",
+    "price": 6480000,
+    "stock": 4,
+    "category": "Guitars",
+    "thumbnails": [
+      "https://http2.mlstatic.com/D_NQ_NP_692098-MLA74782360301_022024-O.webp"
+    ],
+    "status": true,
+    "id": 9
+  },
+  {
+    "title": "PRS Custom 24 Electric Guitar",
+    "description": "High-end electric guitar with tonal versatility and impeccable construction, preferred by professional musicians.",
+    "code": "PRS001",
+    "price": 2271802,
+    "stock": 2,
+    "category": "Guitars",
+    "thumbnails": [
+      "https://http2.mlstatic.com/D_NQ_NP_714835-MLU74074036154_012024-O.webp"
+    ],
+    "status": true,
+    "id": 10
+  }
+]
