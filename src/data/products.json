@@ -1,0 +1,54 @@
+[
+  {
+    "title": "Yamaha Alto Saxophone",
+    "description": "High-quality alto saxophone with a smooth tone and great playability, ideal for students and professionals.",
+    "code": "YMH003",
+    "price": 3267684,
+    "stock": 6,
+    "category": "Saxophone",
+    "thumbnails": [
+      "https://http2.mlstatic.com/D_NQ_NP_668375-MLU74860321729_032024-O.webp"
+    ],
+    "status": true,
+    "id": 1
+  },
+  {
+    "title": "Martin D-28 Acoustic Guitar",
+    "description": "Iconic acoustic guitar with a rich and deep tone, used by legendary musicians.",
+    "code": "MTN001",
+    "price": 6480000,
+    "stock": 4,
+    "category": "Guitars",
+    "thumbnails": [
+      "https://http2.mlstatic.com/D_NQ_NP_692098-MLA74782360301_022024-O.webp"
+    ],
+    "status": true,
+    "id": 2
+  },
+  {
+    "title": "PRS Custom 24 Electric Guitar",
+    "description": "High-end electric guitar with tonal versatility and impeccable construction, preferred by professional musicians.",
+    "code": "PRS001",
+    "price": 2271802,
+    "stock": 2,
+    "category": "Guitars",
+    "thumbnails": [
+      "https://http2.mlstatic.com/D_NQ_NP_714835-MLU74074036154_012024-O.webp"
+    ],
+    "status": true,
+    "id": 3
+  },
+  {
+    "title": "PRS Custom 24 Electric Guitar",
+    "description": "High-end electric guitar with tonal versatility and impeccable construction, preferred by professional musicians.",
+    "code": "PRS001",
+    "price": 2271802,
+    "stock": 2,
+    "category": "Guitars",
+    "thumbnails": [
+      "https://http2.mlstatic.com/D_NQ_NP_714835-MLU74074036154_012024-O.webp"
+    ],
+    "status": true,
+    "id": 4
+  }
+]

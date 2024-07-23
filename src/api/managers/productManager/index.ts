@@ -2,14 +2,17 @@ import path from "path";
 import { Product } from "@api/models";
 import { ProductRepository } from "@api/repositories";
 import { initializeDataStore } from "@api/data";
+import { Server as IOServer } from "socket.io";
 
 export class ProductManager {
   private productRepository: ProductRepository;
   private lastId: number = 0;
+  private io: IOServer;
 
-  constructor() {
+  constructor(io: IOServer) {
     const filePath = path.join(__dirname, "../../data/products.json");
     this.productRepository = new ProductRepository(filePath);
+    this.io = io;
     this.initialize();
   }
 

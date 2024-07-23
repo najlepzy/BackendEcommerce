@@ -128,5 +128,70 @@
     ],
     "status": true,
     "id": 10
+  },
+  {
+    "title": "Michi",
+    "description": "Descripcióasdn actuali2zad2a",
+    "code": "NP001",
+    "price": 2000,
+    "stock": 20,
+    "category": "Nuevos",
+    "thumbnails": [
+      "https://http2.mlstatic.com/D_NQ_NP_714835-MLU74074036154_012024-O.webp"
+    ],
+    "status": true,
+    "id": 12
+  },
+  {
+    "title": "Nuevo Producto",
+    "description": "Descripción del nuevo producto",
+    "code": "NP001",
+    "price": 1000,
+    "stock": 20,
+    "category": "Nuevos",
+    "thumbnails": [
+      "https://http2.mlstatic.com/D_NQ_NP_714835-MLU74074036154_012024-O.webp"
+    ],
+    "status": true,
+    "id": 13
+  },
+  {
+    "title": "Nuevo Producto",
+    "description": "Descripción del nuevo producto",
+    "code": "NP001",
+    "price": 1000,
+    "stock": 20,
+    "category": "Nuevos",
+    "thumbnails": [
+      "https://http2.mlstatic.com/D_NQ_NP_714835-MLU74074036154_012024-O.webp"
+    ],
+    "status": true,
+    "id": 14
+  },
+  {
+    "title": "Nuevo Producto",
+    "description": "Descripción del nuevo producto",
+    "code": "NP001",
+    "price": 1000,
+    "stock": 20,
+    "category": "Nuevos",
+    "thumbnails": [
+      "https://http2.mlstatic.com/D_NQ_NP_714835-MLU74074036154_012024-O.webp"
+    ],
+    "status": true,
+    "id": 15
+  },
+  {
+    "title": "Nuevo Producto",
+    "description": "Descripción del nuevo producto",
+    "code": "NP001",
+    "price": 1000,
+    "stock": 20,
+    "category": "Nuevos",
+    "thumbnails": [
+      "https://http2.mlstatic.com/D_NQ_NP_714835-MLU74074036154_012024-O.webp"
+    ],
+    "status": true,
+    "id": 16
   }
 ]
